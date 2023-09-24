@@ -72,3 +72,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 LearnEffect/Logs
 LearnEffect/Library
+LearnEffect/obj/Debug
